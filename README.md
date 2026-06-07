@@ -140,7 +140,4 @@ Python Developer | Data Analyst | Machine Learning Enthusiast
 ---
 ## Application Preview
 
-![Digital Alarm Clock](screenshot.png)
-```
-
-That will make the repository look much more professional to recruiters and interviewers.
+![App Screenshot](digital_alarm_clock.png)```
